@@ -1,0 +1,27 @@
+.link1 {
+    text-decoration: none;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgba(255,255,255,.55);
+    padding-right: .5rem;
+padding-left: .5rem;
+display: block;
+padding: .5rem 1rem;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+color: rgba(255,255,255,.55);
+}
+
+.link1:hover {
+    color:lightslategray;
+}
+
+#error {
+    margin-top: 10vh;
+    color: white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}

@@ -1,0 +1,41 @@
+body {
+    background-color: #1c1c1c;
+}
+
+#logo {
+    width: 30vw;
+    margin: auto;
+    display: block;
+    position: relative;
+    transition: all 4s linear;
+    /* opacity: 0; */
+}
+
+#textunderlogo {
+    margin-left: 20vw;
+  margin-right: 20vw;
+  color: #cecece;
+  text-align: center;
+  font-size: 4vh;
+  font-style: italic;
+  font-family: serif;
+}
+
+#tim {
+    float:right;
+    color:gray;
+    margin-right: 15vw;
+    margin-bottom: 5vh;
+    display: block;
+    position: relative;
+  }
+  
+
+hr {
+    color:white;
+    width: 65vw;
+    margin-left: 10vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    /* margin: auto; */
+  }
